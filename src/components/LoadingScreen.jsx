@@ -9,7 +9,7 @@ export default function LoadingScreen() {
           <div className="absolute inset-0 border-4 border-transparent border-t-purple-500 rounded-full animate-spin"></div>
         </div>
         <h2 className="text-3xl font-bold bg-gradient-to-r from-purple-400 via-pink-400 to-cyan-400 bg-clip-text text-transparent animate-gradient bg-[length:200%_auto]">
-         <link rel="icon" type="image/svg+xml" href="/Logo.jpg" /> 
+         Crafting interfaces & writing stories in code
         </h2>
         <p className="text-gray-400 mt-4">Loading routes... </p>
       </div>
