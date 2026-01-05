@@ -205,12 +205,9 @@ export default function Portfolio() {
             }}
           >
             <span 
-              onMouseEnter={() => setNameRotate(true)}
-              onMouseLeave={() => setNameRotate(false)}
+              
               className="inline-block bg-gradient-to-r from-purple-400 via-pink-400 to-cyan-400 bg-clip-text text-transparent animate-gradient bg-[length:200%_auto] cursor-pointer transition-transform duration-1000"
-              style={{
-                transform: nameRotate ? 'rotate(360deg)' : 'rotate(0deg)'
-              }}
+             
             >
               UTKARSH DWIVEDI
             </span>
