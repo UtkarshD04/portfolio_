@@ -8,7 +8,7 @@ export const projects = [
     icon: Code,
     tech: ["React", "Node.js", "MongoDB", "Express"],
     category: "Full Stack",
-    liveLink: "https://fixify-kt9k.onrender.com/",
+    liveLink: "fixify-frontend-fq9m.onrender.com/",
     githubLink: "https://github.com/UtkarshD04/Fixify"
   },
   {
@@ -18,7 +18,7 @@ export const projects = [
     icon: Terminal,
     tech: ["React", "Node.js", "MongoDB", "Chart.js"],
     category: "Finance App",
-    liveLink: "https://ledgerlite-et-k88d.onrender.com/",
+    liveLink: "ladgerlite-1.onrender.com/",
     githubLink: "https://github.com/UtkarshD04/ledger.lite"
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     icon: Globe,
     tech: ["React", "Tailwind", "JavaScript", "CSS3"],
     category: "Restaurant App",
-    liveLink: "upcoming",
+    liveLink: "ads-restro-cafe-1.onrender.com",
     githubLink: "https://github.com/UtkarshD04/ads-restaurant"
   }
 ];
